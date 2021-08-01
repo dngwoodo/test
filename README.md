@@ -6,4 +6,4 @@ Cracking Vue.js_김동우
 
 Seohyun Lee
 
-황선태
+황선태 - vue.js
