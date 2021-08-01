@@ -1,4 +1,4 @@
-minseo
+minseo: C
 
 Cracking Vue.js_김동우
 
@@ -8,6 +8,4 @@ Seohyun Lee : js
 
 
 황선태 - vue.js
-
-
 
